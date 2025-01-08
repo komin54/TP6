@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa; /* Warna latar belakang */
+}
+
+h2 {
+    margin-top: 30px; /* Jarak atas untuk judul */
+    margin-bottom: 20px; /* Jarak bawah untuk judul */
+}
+
+.card {
+    margin-bottom: 20px; /* Jarak bawah untuk setiap kartu produk */
+}
+
+.carousel-item img {
+    height: 400px; /* Tinggi gambar carousel */
+    object-fit: cover; /* Memastikan gambar tidak terdistorsi */
+}
+
+.modal-body img {
+    max-width: 100%; /* Memastikan gambar modal responsif */
+    height: auto; /* Tinggi otomatis untuk menjaga proporsi */
+}
